@@ -4,4 +4,6 @@ Console.WriteLine("Type something: ");
 
 string nome = Console.ReadLine();
 
+Console.WriteLine("You wrote: ");
+
 Console.WriteLine(nome);
